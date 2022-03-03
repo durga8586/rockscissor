@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  font-family: 'roboto';
+}
+
+body {
+  margin: 0;
+  font-family: 'roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
